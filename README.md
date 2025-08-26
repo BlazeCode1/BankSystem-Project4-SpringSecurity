@@ -12,3 +12,6 @@ in this project, i used JWT instead of Basic Auth, for how easy it is and compat
 - AuthResponse (for JWT Token)
 - LoginRequest (for override auth login endpoint)
 
+# POST MAN
+tests and outputs:
+https://documenter.getpostman.com/view/32615945/2sB3Hew52i
